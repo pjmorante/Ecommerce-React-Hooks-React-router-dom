@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 1px 10px 10px 2px rgba(0, 0, 0, 0.1);
+  border: 4px solid transparent;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.name_title {
+  font-size: 3rem;
+}
+
+.description_title {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.description {
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.555);
+  font-size: 18px;
+  width: 600px;
+  text-align: center;
+}
+
+.img_profile img {
+  border-radius: 75%;
+  width: 250px;
+  margin-top: 20px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.social_net {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.555);
+}
