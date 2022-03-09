@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-React-Hooks-React-router-dom/static/css/main.9003ae4b.css",
+    "main.js": "/Ecommerce-React-Hooks-React-router-dom/static/js/main.d9820e42.js",
+    "static/media/inicio.jpg": "/Ecommerce-React-Hooks-React-router-dom/static/media/inicio.4a59ed5e033d863dc514.jpg",
+    "static/media/img03.jpg": "/Ecommerce-React-Hooks-React-router-dom/static/media/img03.475683e4016c25c0eda4.jpg",
+    "static/media/Nike.jpg": "/Ecommerce-React-Hooks-React-router-dom/static/media/Nike.5eedf5f7d339d137435a.jpg",
+    "static/media/img01.jpg": "/Ecommerce-React-Hooks-React-router-dom/static/media/img01.b982c5d15cea7c86747f.jpg",
+    "index.html": "/Ecommerce-React-Hooks-React-router-dom/index.html",
+    "main.9003ae4b.css.map": "/Ecommerce-React-Hooks-React-router-dom/static/css/main.9003ae4b.css.map",
+    "main.d9820e42.js.map": "/Ecommerce-React-Hooks-React-router-dom/static/js/main.d9820e42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9003ae4b.css",
+    "static/js/main.d9820e42.js"
+  ]
+}
